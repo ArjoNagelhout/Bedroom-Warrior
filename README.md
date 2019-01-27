@@ -3,7 +3,9 @@ A game made for the Global Game Jam 2019 @HKU
 
 ## Download
 The game can be downloaded here:
+
 macOS: https://github.com/ArjoNagelhout/Bedroom-Warrior/raw/master/Bedroom%20Warrior.app.zip
+
 Windows: -
 
 ## Credits
