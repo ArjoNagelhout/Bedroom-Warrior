@@ -12,6 +12,7 @@ Ting Ting Breemhaar
 
 ### Ingame art
 Jeroen Blok
+
 Nathalie van Tienen
 
 ### Game design
