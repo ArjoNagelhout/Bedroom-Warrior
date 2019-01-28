@@ -1,0 +1,1 @@
+audio_resume_sound(snd_clock)
