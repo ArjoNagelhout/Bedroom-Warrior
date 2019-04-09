@@ -1,5 +1,5 @@
-# Bedroom-Warrior
-A game made for the Global Game Jam 2019 @HKU
+# GGJ2019
+A game made for the Global Game Jam 2019 @HKU, using GameMaker:Studio 2
 
 
 ## Story
