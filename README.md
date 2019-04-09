@@ -21,7 +21,7 @@ Home is a place where you feel safe. There are no threats. In this game, you pla
 ## Download
 The game can be downloaded here:
 
-macOS: https://github.com/ArjoNagelhout/Bedroom-Warrior/raw/master/Bedroom%20Warrior.app.zip
+macOS: https://github.com/ArjoNagelhout/GGJ2019/raw/master/Bedroom%20Warrior.app.zip
 
 Windows: -
 
